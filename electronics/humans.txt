@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Laptop Assets
+Website: https://laptopassets.com/
+Location: Houston, TX
+
+//* SITE */
+Published: 2026-06-27
+Language: English
+Doctype: HTML5
