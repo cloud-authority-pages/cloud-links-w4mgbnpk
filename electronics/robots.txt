@@ -12,4 +12,4 @@ User-agent: Diffbot
 Disallow: /
 User-agent: Bytespider
 Disallow: /
-Sitemap: __URL_0__
+Sitemap: https://cloud-authority-pages.github.io/cloud-links-w4mgbnpk/electronics/sitemap.xml
